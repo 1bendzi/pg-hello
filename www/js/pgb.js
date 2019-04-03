@@ -20,3 +20,7 @@ function deviceInfo() {
 	navigator.notification.alert(info);
 	
 }
+function personalData() {
+	info = 'Beniamin Bieniek'
+	navigator.notification.alert(info);
+}
